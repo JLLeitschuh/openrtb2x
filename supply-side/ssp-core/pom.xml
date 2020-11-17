@@ -64,7 +64,7 @@
  </dependencies>
 
  <properties>
-  <spring-version>2.5.6.SEC02</spring-version>
+  <spring-version>4.3.21.RELEASE</spring-version>
   <jersey-version>1.4</jersey-version>
  </properties>
 
